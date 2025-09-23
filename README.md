@@ -3,7 +3,7 @@
 A front-end clone of the Netflix landing page built with HTML and CSS.
 
 ### Live Demo
-[Click here to view the live site](https://yashwanthveera16.github.io/Netflix-Clone/)
+[Click here to view the live site](https://yashwanthveera16.github.io/Netflix-UI-clone/)
 
 ### Features
 * Responsive layout
